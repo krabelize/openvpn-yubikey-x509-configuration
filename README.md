@@ -1,4 +1,8 @@
 # openvpn-hardened
-OpenVPN hardened configs compatible with LDAP/AD and Yubico Yubikey U2F keys
+OpenVPN hardened configs compatible with LDAP/AD and Yubico Yubikey U2F keys. More [info](https://cryptsus.com/blog/securce-openvpn-setup-X509-LDAP-yubikey-2fa-authentication-Ubuntu18.04) here.
 
-Visit cryptsus.com/blog for more information
+# License
+Berkeley Software Distribution (BSD)
+
+# Author
+[Jeroen van Kessel](https://twitter.com/jeroenvkessel) | [cryptsus.com](https://cryptsus.com) - we craft cyber security solutions
